@@ -1,10 +1,10 @@
 # Pathan-Zuveriya-Tabassum
 
 <h1 align="center">Hi 👋, I'm Zuveriya</h1>
-<h3 align="center">📊 Data Analytics Enthusiast | 📈 Tableau | 💻 MERN Learner</h3>
+<h3 align="center">📊 Data Analytics Enthusiast | 📈 Tableau | 💻 AI & ML</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Data+into+Insights;Data+Analytics+Lover;Tableau+%7C+Python+%7C+Dashboards;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Data+into+Insights;Data+Analytics+Learner;Tableau+%7C+Python+%7C+Dashboards;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack :
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mongodb,express,react,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,sql,tableau,AI,ML,Html,Tailwind Css,git,github" />
 </p>
 
 <p align="center">
