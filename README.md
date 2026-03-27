@@ -26,23 +26,36 @@
 
 ---
 
-## Skills & Tools
+## 🛠️ Skills & Tools
 
-###  Data Analytics
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization & Storytelling  
-- Dashboard Development (Tableau)
+### 📊 Data Analytics  
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDA-3F51B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Storytelling-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tableau%20Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
-###  Programming
-- Python  
-- SQL  
-- Tailwind CSS  
+---
 
-### Technologies
-- Tableau  
-- MongoDB  
-- AWS (EC2, SNS, DynamoDB)
+### 💻 Programming  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Technologies  
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://img.shields.io/badge/AWS-EC2%20%7C%20SNS%20%7C%20DynamoDB-orange?style=for-the-badge&logo=amazon-aws"/>
+</p>
 
 ---
 
@@ -79,14 +92,14 @@
 <img src="https://github.com/user-attachments/assets/fbd196b9-e663-4389-a439-ecee90b7c2d0" />
 <img src="https://github.com/user-attachments/assets/16e29253-9f19-4b10-b761-095728a08890" />
 
----
-
+--
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuveriya2527&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuveriya2527&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuveriya2527&theme=radical&hide_border=true" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
