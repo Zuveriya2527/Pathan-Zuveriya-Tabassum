@@ -18,11 +18,24 @@
 
 ## 👩‍💻 About Me
 
--  Passionate about **Data Analytics & Visualization**
--  Exploring **AI & Machine Learning**
--  Skilled in turning **raw data into insights**
--  Currently learning **AWS Cloud (EC2, SNS, DynamoDB)**
--  Focused on building **real-world data-driven solutions**
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Driven-Mindset-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Analytics%20%7C%20AI%2FML-Enthusiast-blueviolet?style=for-the-badge"/>
+</p>
+
+<p align="center">
+✨ Turning raw data into meaningful insights  
+📊 Passionate about Data Analytics & Visualization  
+🤖 Exploring AI & Machine Learning  
+☁️ Learning AWS Cloud (EC2 • SNS • DynamoDB)  
+🚀 Building real-world data-driven projects  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+in+Progress;AI%2FML+Explorer;Dashboard+Builder;Insight+Creator&center=true&width=400&height=40&color=ff69b4">
+</p>
 
 ---
 
@@ -94,10 +107,6 @@
 
 --
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuveriya2527&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuveriya2527&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4" />
