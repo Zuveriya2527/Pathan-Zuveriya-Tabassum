@@ -39,9 +39,9 @@
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
-### 📊 Data Analytics  
+###  Data Analytics  
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Preprocessing-009688?style=for-the-badge"/>
@@ -53,7 +53,7 @@
 
 ---
 
-### 💻 Programming  
+### Programming  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge&logo=mysql"/>
@@ -63,7 +63,7 @@
 
 ---
 
-### 🚀 Technologies  
+###  Technologies  
 <p align="center">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://skillicons.dev/icons?i=mongodb" />
@@ -72,7 +72,7 @@
 
 ---
 
-## 📂 Projects
+##  Projects
 
 ### ❤️ Heart Disease Analysis  
 → Data preprocessing, Python, SQL, Tableau dashboards & insights  
@@ -89,7 +89,7 @@
 
 ---
 
-### 🤖 Health AI  
+###  Health AI  
 → Python, IBM Watson, Data preprocessing, Visualization, AI Chatbot  
 🔗 Live Dashboard: https://lnkd.in/gk73v6NQ  
 
@@ -106,14 +106,14 @@
 <img src="https://github.com/user-attachments/assets/16e29253-9f19-4b10-b761-095728a08890" />
 
 --
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuveriya2527&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4" />
 </p>
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pathan-zuveriya-tabassum-742346298">
